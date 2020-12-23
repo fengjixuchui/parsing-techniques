@@ -16,7 +16,7 @@
 [https://github.com/duguying/parsing-techniques](https://github.com/duguying/parsing-techniques)
 
 ### 翻译进度
-**24%** [166/677]
+**25%** [174/677]
 
 ### 加入协作
 - 加QQ群 242838077
@@ -54,3 +54,4 @@
 |匿名|￥10.00|2020/07/04|
 |joker|￥50.00|2020/07/13|
 |匿名|￥5.00|2020/10/24|
+|uestc-zyj|￥20.00|2020/12/19|
